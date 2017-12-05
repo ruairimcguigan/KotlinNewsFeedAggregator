@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "78518937226",
+    "firebase_url": "https://kotlinnewsfeedaggregator.firebaseio.com",
+    "project_id": "kotlinnewsfeedaggregator",
+    "storage_bucket": "kotlinnewsfeedaggregator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78518937226:android:2830e37627698a26",
+        "android_client_info": {
+          "package_name": "com.kotlin.newfeedaggregator.aquidigital.kotlinnewsfeedaggregator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78518937226-ggvt69mji71r9soeqi4hvl9nrh86lbqm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kotlin.newfeedaggregator.aquidigital.kotlinnewsfeedaggregator",
+            "certificate_hash": "6183db73720ab3e31dee13bfb142a1d5f2ca70b3"
+          }
+        },
+        {
+          "client_id": "78518937226-ermfncc5ge63psebq9npllp0b2vbdlhb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu5gXKQw373pgZHQcEbVGOXsRj17VWtvQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "78518937226-ermfncc5ge63psebq9npllp0b2vbdlhb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
